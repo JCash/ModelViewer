@@ -27,7 +27,7 @@ embedded_instances {
   "textures: \\\"/assets/kay/knight_texture.png\\\"\\n"
   "skeleton: \\\"/assets/kay/Knight.glb\\\"\\n"
   "animations: \\\"/assets/kay/Knight.glb\\\"\\n"
-  "default_animation: \\\"Block\\\"\\n"
+  "default_animation: \\\"Knight\\\"\\n"
   "name: \\\"{{NAME}}\\\"\\n"
   "\"\n"
   "  position {\n"
